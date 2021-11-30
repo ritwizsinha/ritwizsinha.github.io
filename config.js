@@ -22,6 +22,14 @@ module.exports = {
     {
       label: 'Tags',
       path: '/tags'
+    },
+    {
+      label: 'Readings',
+      path: '/readings'
+    }, 
+    {
+      label: 'Bookshelf',
+      path: '/bookshelf'
     }
   ],
   author: {

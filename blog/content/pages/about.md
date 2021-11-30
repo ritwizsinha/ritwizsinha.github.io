@@ -4,4 +4,6 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-A CS Student who was lured into this stream because of peer pressure, but now likes to talk at length about Algorithms, Distributed Systems, Databases and creating systems from scratch whenever given the chance.
+The forever Computer Science Student who  likes to talk at length about Algorithms, Distributed Systems, Databases and creating systems from scratch whenever given the chance.
+
+I also watch a lot of anime, read a ton of manga and consume unhealthy amounts of Japanese Music. 
