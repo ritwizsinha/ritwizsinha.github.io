@@ -6,10 +6,16 @@
 <url> <loc>https://ritwiz.dev/readings</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ritwiz.dev/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ritwiz.dev/posts/surviving-an-internship-with-no-knowlege</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ritwiz.dev/posts/interfaces-and-reflections-in-go</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ritwiz.dev/tag/lfx</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ritwiz.dev/tag/my-sql</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ritwiz.dev/tag/parser</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ritwiz.dev/tag/vitess</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ritwiz.dev/tag/go</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ritwiz.dev/tag/interfaces</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ritwiz.dev/tag/languagedesign</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ritwiz.dev/tag/reflections</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ritwiz.dev/category/experience</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://ritwiz.dev/category/topic-summary</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://ritwiz.dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
