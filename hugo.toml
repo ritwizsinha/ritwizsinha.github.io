@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://deepdivearchive.com/'
 languageCode = 'en-us'
 title = 'Deep Dive Archive'
 theme = 'archie'
